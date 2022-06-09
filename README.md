@@ -1,2 +1,3 @@
 # fcc-product-landing
-Langing page for the freeCodeCamp challenge
+Landing page for the freeCodeCamp challenge
+[Visit site](https://enriquechac.github.io/fcc-product-landing/)
